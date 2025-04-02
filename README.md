@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Dramaturca</a> 👋</h1>
+</div>
+<img src="[https://imgur.com/gallery/black-hole-made-with-paint-net-tZPNBZg]">
 
-<!--
-**jevg7/jevg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+⭐ Sobre mi ⭐ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-💻 Desarrollador de aplicaciones para PC
+
+-🎓 Estudiante de tercer semestre
+
+-🧑‍💻 Freelancer
+<br>
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/jevg7">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jevg7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jevg7&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
