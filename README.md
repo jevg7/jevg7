@@ -8,7 +8,7 @@
 
 -💻 Desarrollador de aplicaciones para PC
 
--🎓 Estudiante de tercer semestre
+-🎓 Estudiante de cuarto semestre
 
 -🧑‍💻 Freelancer
 <br>
